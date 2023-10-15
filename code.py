@@ -1,5 +1,8 @@
-'''TODO:
-none at the moment
+'''
+to anyone who wishes to use this: Please be aware of character limit that Discord uses. 
+
+TODO:
+paste character amount in popup somewhere
 
 finish:
 -user input secret_url
